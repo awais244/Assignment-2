@@ -17,11 +17,6 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/about/
-        </loc>
-    </url>
-    <url>
-        <loc>
             http://localhost:8000/contact/
         </loc>
     </url>
