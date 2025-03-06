@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/leafs-stumble-in-road-game-against-golden-knights/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/leafs-secure-commanding-victory-over-hurricanes/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/post-game-recaps/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/post-game-recap/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/_awais24/
+        </loc>
+    </url>
+</urlset>
